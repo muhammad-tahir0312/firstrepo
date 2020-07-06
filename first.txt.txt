@@ -1,1 +1,4 @@
 "Hello World"
+a = "Muhammad"
+b = "Tahir"
+print(a+b)
